@@ -410,7 +410,7 @@ packages:
         optional: true
 
   breakpoint-indicator@file:../breakpoint-indicator-0.0.1.tgz:
-    resolution: {integrity: sha512-/fIYrXil1rjaB8HHl6i3Q0NoVamMH2B56ixMjJDKMc/hfCQtfnx/pFrfzn34u8/NUlYEJWlIy9o87XKtsBuUAw==, tarball: file:../breakpoint-indicator-0.0.1.tgz}
+    resolution: {integrity: sha512-PyBy5EGp/8ZYkdXGBdpt1wOz3BhPy9cbuGsAAE7/5ROz3oA3eyTR6GtEIG1GeNKMZlz0GoJ5nuV/jjLvDCOC/w==, tarball: file:../breakpoint-indicator-0.0.1.tgz}
     version: 0.0.1
     peerDependencies:
       react: ^18.0.0 || ^19.0.0
@@ -925,7 +925,6 @@ snapshots:
   breakpoint-indicator@file:../breakpoint-indicator-0.0.1.tgz(react@19.3.1):
     dependencies:
       react: 19.3.1
-      react-dom: 19.3.1(react@19.3.1)
 
   csstype@3.2.3: {}
 
