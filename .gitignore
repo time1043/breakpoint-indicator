@@ -4,3 +4,5 @@
 # for nodejs
 node_modules/
 dist/
+
+*.tgz
