@@ -1,5 +1,6 @@
 import { BreakpointIndicator } from "breakpoint-indicator";
 import { useState } from "react";
+import ThemeController from "./components/theme-controller";
 
 export default function App() {
   const [count, setCount] = useState(0);
@@ -13,6 +14,7 @@ export default function App() {
       <button className="btn" onClick={() => setCount(count + 1)}>
         Increment
       </button>
+      <ThemeController />
       <BreakpointIndicator />
     </div>
   );
