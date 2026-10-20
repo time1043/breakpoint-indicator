@@ -10,7 +10,7 @@ export default defineConfig(({ command }) => ({
     command === "serve"
       ? {
           alias: {
-            "breakpoint-indicator": resolve(
+            "tw-breakpoint-overlay": resolve(
               import.meta.dirname,
               "../src/index.ts",
             ),

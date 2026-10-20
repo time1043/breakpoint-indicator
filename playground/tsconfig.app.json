@@ -23,7 +23,7 @@
     "noFallthroughCasesInSwitch": true,
 
     "paths": {
-      "breakpoint-indicator": ["../src/index.ts", "../dist/index.d.ts"]
+      "tw-breakpoint-overlay": ["../src/index.ts", "../dist/index.d.ts"]
     }
   },
   "include": ["src"]

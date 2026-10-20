@@ -1,6 +1,6 @@
 import { useState } from "react";
 import ThemeController from "./components/theme-controller";
-import { BreakpointIndicator } from "breakpoint-indicator";
+import { BreakpointIndicator } from "tw-breakpoint-overlay";
 
 export default function App() {
   const [count, setCount] = useState(0);
