@@ -4,4 +4,4 @@
     light --default,
     dark --prefersdark;
 }
-@source "../node_modules/breakpoint-indicator/dist";
+@source "../../src/";
